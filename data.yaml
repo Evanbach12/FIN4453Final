@@ -1,0 +1,16 @@
+names:
+- Ball
+- Goalie
+- Player
+- Referee
+nc: 4
+roboflow:
+  license: CC BY 4.0
+  project: label-mpdsk
+  url: https://universe.roboflow.com/evan-u66oj/label-mpdsk/dataset/1
+  version: 1
+  workspace: evan-u66oj
+test: ../test/images
+train: ../train/images
+val: ../valid/images
+
